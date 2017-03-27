@@ -38,4 +38,5 @@ i=1
 while i<=100:
 	if i>10:
 		continue #退出循环
+	i=i+1
 	print(i)
